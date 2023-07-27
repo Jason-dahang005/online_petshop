@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-wrapper {
+  width: 270px;
+  height: 100vh;
+  padding: 20px;
+  background-color: coral;
+}
+
